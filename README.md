@@ -5,7 +5,7 @@ DIY live streaming camera using raspberry pi, opencv, flask and remote.it</br>
 ---------------------------
 echo Y |sudo apt-get install libopenjp2-7-dev<br/>
 echo Y | sudo apt-get install libhdf5-dev<br/>
-echo Y |sudo apt-get install libqtgui4 libqtwebkit4 libqt4-test<br/>
+echo Y | sudo apt-get install libqt5gui5 libqt5webkit5 libqt5test5<br/>
 echo Y | sudo apt-get install libatlas-base-dev<br/>
 echo Y | sudo apt-get install libjasper-dev<br/>
 echo Y | sudo apt-get install python3-pip<br/>
